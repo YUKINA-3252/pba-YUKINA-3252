@@ -2,7 +2,7 @@
 
 # Task00: Build C++ Program with CMake
 
-**Deadline: Apr. 20th (Thu) at 15:00pm**
+**Deadline: Apr. 27th (Thu) at 15:00pm**
 
 
 
@@ -109,7 +109,7 @@ git commit -m "task00 finished"   # the comment can be anything
 git push --set-upstream origin task00  # up date the task0 branch of the remote repository
 ```
 
-got to the GitHub webpage `https://github.com/PBA-2023S/acg-<username>` . If everything looks good on this page, make a pull request. 
+got to the GitHub webpage `https://github.com/PBA-2023S/pba-<username>` . If everything looks good on this page, make a pull request. 
 
 ![](../doc/pullrequest.png)
 
@@ -120,6 +120,6 @@ got to the GitHub webpage `https://github.com/PBA-2023S/acg-<username>` . If eve
 
 ## Trouble Shooting
 
-- I mistakenly submit the assignement in the `main` branch
+- I mistakenly submit the assignment in the `main` branch
   - Make a branch `task00` and submit again
 
