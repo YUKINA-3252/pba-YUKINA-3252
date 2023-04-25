@@ -6,7 +6,7 @@
 
 #include <cstdlib>
 #include <vector>
-#define GL_SILENCE_DEPRECATIONnnnnnn
+#define GL_SILENCE_DEPRECATION
 #include <GLFW/glfw3.h>
 #include <Eigen/Dense>
 
