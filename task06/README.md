@@ -23,7 +23,7 @@ Now you are ready to go!
 
 ## Problem 1
 
-Run the code as it is .  After running the program for a while, the simulation stops. Then, take a screenshot image of a program window. 
+Run the code as it is.  After running the program for a while, the simulation stops. Then, take a screenshot image of a program window. 
 Save the screenshot image overwriting `task06/problem1.png`
 
 ![problem1](problem1.png)
@@ -38,8 +38,6 @@ The current code does not compute the hessian of the elastic energy of the sprin
 Write a few lines of code around `line #52` to compute hessian accurately. After running the program for a while, save the screenshot image overwriting `task06/problem2.png`
 
 ![problem2](problem2.png)
-
-Write down the converged minimum value of the energy by updating the text below.
 
 ## After Doing the Assignment
 

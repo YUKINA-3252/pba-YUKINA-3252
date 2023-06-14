@@ -2,7 +2,7 @@
 
 ![preview](preview.png)
 
-**Deadline: May 18th (Thu) at 15:00pm**
+**Deadline: June 18th (Thu) at 15:00pm**
 
 ----
 
