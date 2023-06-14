@@ -26,6 +26,11 @@ void solve_laplace_gauss_sidel_on_grid(
       if (vtx2isfix[idx_center]) { continue; }
       // write some code below to implement Gauss-Sidel method
       // Do not write more than 5 lines of code
+      const float up_val = vtx2val[(iy + 1) * grid_size + ix];
+      const float down_val = vtx2val[(iy - 1) * grid_size + ix];
+      const float left_val = vtx2val[iy * grid_size + (ix - 1)];
+      const float right_val = vtx2val[iy * grid_size + (ix + 1)];
+      vtx2val[idx_center] = (left_val + right_val + up_val + down_val) / 4.f;
     }
   }
 }
