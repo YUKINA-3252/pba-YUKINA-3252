@@ -43,6 +43,9 @@ target_link_libraries(${PROJECT_NAME}
     glfw  # use glfw library
     )
 
+  target_link_libraries(${PROJECT_NAME}
+    stdc++fs)
+
 #############################
 # showing status of libraries
 GET_TARGET_PROPERTY(GLFW_INCLUDE_DIR
